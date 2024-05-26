@@ -1,0 +1,62 @@
+body {
+    background-image: url(./img/wallpaper_mad_max_01_1920x1080.jpg);
+    background-size: fixed;
+    color: black;
+    background-attachment: fixed;
+}
+.dat {
+    background-color: rgb(255, 217, 3);
+}
+h1 {
+    font-size: 80px;
+    text-align: center;
+    font-family: "Archivo Black", sans-serif;
+        font-weight: 400;
+        font-style: normal;
+        color: rgb(255, 217, 0);
+}
+.font {
+    font-family: "Lexend Zetta", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+    text-align: center;
+}
+h2 {
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.rr {
+    text-align: center;
+}
+.car {
+    margin: 15px 0px 30px 350px;
+}
+.bg {
+    background-color: rgba(99, 0, 0, 0.288);
+}
+footer {
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 238, 0);
+    font-family: "Bai Jamjuree", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    text-align: center;
+    padding: 15px;
+}
+.nav {
+    background-color: rgb(0, 0, 0);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.text {
+    font-family: "Moulpali", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+}
+.navbar-nav .nav-link {
+    color: rgb(255, 217, 0);
+}
+.carousel-inner {
+    width: 100%;
+    margin: auto;
+}
